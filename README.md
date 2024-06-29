@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working as a Freelance<br>👯 I’m looking to collaborate with developers<br>🌱 I’m currently learning React with .net Core<br>💬 Ask me about MVC, C#, PHP, Javascript.<br>⚡ Fun fact I like to customize keyboards and PCs
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Unnamed#7250)  
 
